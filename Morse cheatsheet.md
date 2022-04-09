@@ -37,7 +37,7 @@
 |9|9 (out of 10)|- - - - .||
 |0|0 (out of 10)|- - - - -||
 |.|the END. the END. the END.|. - . - . -||
-|"|COM-MA, it's a COM-MA|- - . . - -||
+|,|COM-MA, it's a COM-MA|- - . . - -||
 |;|HERE IT COMES: dot dot dot|- - - . . .||
 |-|DASH, just a li-ttle DASH|- . . . . -||
 |=|DASH un-der a DASH|- . . . -||
