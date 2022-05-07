@@ -7,7 +7,7 @@ CheekyKeys lets you control your keyboard using your face.
 
 View a fuller demo and more background on the project at https://youtu.be/rZ0DBi1avMM
 
-CheekyKeys uses [OpenCV](https://github.com/opencv/opencv-python) and MediaPipe's [Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh.html#python-solution-api) to perform real-time detect of facial landmarks from video input. From there, relative differences are calculated to determine specific facial gestures and translate those into commands sent via [keyboard](https://github.com/boppreh/keyboard).
+CheekyKeys uses [OpenCV](https://github.com/opencv/opencv-python) and MediaPipe's [Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh.html#python-solution-api) to perform real-time detection of facial landmarks from video input. From there, relative differences are calculated to determine specific facial gestures and translate those into commands sent via [keyboard](https://github.com/boppreh/keyboard).
 
 This version 0.1 is hardcoded to my facial features, but thresholds can easily be modified. It's also built for a Mac keyboard, but you can also swap i.e. Windows key for Command simply enough.
 
