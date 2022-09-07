@@ -2,3 +2,4 @@ keyboard==0.13.5
 mediapipe==0.8.9.1
 opencv_contrib_python==4.5.5.64
 scipy==1.8.0
+protobuf==3.19.0
